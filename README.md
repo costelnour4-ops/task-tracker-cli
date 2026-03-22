@@ -13,7 +13,7 @@ O aplicație simplă în linia de comandă (CLI) construită cu **Node.js** pent
 Mai întâi, asigură-te că ai [Node.js](https://nodejs.org/) instalat.
 
 ### Adăugare task
-```bash
+
 node task.list.js add "Cumpără lapte"
 
 ###Vizualizarea liste
