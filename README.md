@@ -23,3 +23,6 @@ node task.list.js delete 1
 
 ### Status update
 node task.list.js updatestatus 1 doing
+
+
+gh repo clone costelnour4-ops/task-tracker-cli
