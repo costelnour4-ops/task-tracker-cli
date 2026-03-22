@@ -1,5 +1,5 @@
 # Task Tracker CLI 📝
-
+Project URL: https://roadmap.sh/projects/task-tracker
 O aplicație simplă în linia de comandă (CLI) construită cu **Node.js** pentru a gestiona task-urile zilnice. Datele sunt salvate local într-un fișier JSON.
 
 ## 🚀 Funcționalități
